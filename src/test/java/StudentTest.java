@@ -12,6 +12,5 @@ public class StudentTest {
                 ()-> Assertions.assertEquals("Edi", student.name),
                 ()-> Assertions.assertTrue(student.isDoingMBKM())
         );
-
     }
 }
